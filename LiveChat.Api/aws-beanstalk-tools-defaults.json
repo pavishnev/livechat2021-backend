@@ -1,0 +1,13 @@
+
+{
+    "region" : "us-east-2",
+    "configuration" : "Release",
+    "framework"     : "net5.0",
+    "self-contained" : false,
+    "application"    : "LiveChat2021-app",
+    "environment"    : "Livechat2021app-env",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "enhanced",
+    "additional-options"   : "",
+    "proxy-server"         : "nginx"
+}
